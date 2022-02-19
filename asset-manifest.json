@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/infinite-wordle.git/static/css/main.cd200130.css",
-    "main.js": "/infinite-wordle.git/static/js/main.683eb062.js",
-    "static/js/787.06f55779.chunk.js": "/infinite-wordle.git/static/js/787.06f55779.chunk.js",
-    "index.html": "/infinite-wordle.git/index.html",
-    "main.cd200130.css.map": "/infinite-wordle.git/static/css/main.cd200130.css.map",
-    "main.683eb062.js.map": "/infinite-wordle.git/static/js/main.683eb062.js.map",
-    "787.06f55779.chunk.js.map": "/infinite-wordle.git/static/js/787.06f55779.chunk.js.map"
+    "main.css": "/infinite-wordle/static/css/main.cd200130.css",
+    "main.js": "/infinite-wordle/static/js/main.fccc2217.js",
+    "static/js/787.06f55779.chunk.js": "/infinite-wordle/static/js/787.06f55779.chunk.js",
+    "index.html": "/infinite-wordle/index.html",
+    "main.cd200130.css.map": "/infinite-wordle/static/css/main.cd200130.css.map",
+    "main.fccc2217.js.map": "/infinite-wordle/static/js/main.fccc2217.js.map",
+    "787.06f55779.chunk.js.map": "/infinite-wordle/static/js/787.06f55779.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cd200130.css",
-    "static/js/main.683eb062.js"
+    "static/js/main.fccc2217.js"
   ]
 }
